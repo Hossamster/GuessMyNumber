@@ -82,11 +82,8 @@ h1 {
   left: 2rem;
 }
 .reload {
-  position: absolute;
-  top: 2rem;
-  left: 2rem;
-  margin-top: 110%;
-  margin-left: 33%;
+  margin-top:50%;
+  margin-left:38%;
 }
 
 
